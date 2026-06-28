@@ -96,7 +96,7 @@ This project is open-source and intended for **educational use only**.
 ---
 
 ## 👤 Author
-**Ali Ahsan**  
+**Abubaker Khan**  
 Department of Electrical Engineering  
 UET Lahore
 
